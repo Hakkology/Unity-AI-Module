@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b069f2a24baaa2a49b38a92812dd473d, type: 3}
+  m_Name: RangedEnemy
+  m_EditorClassIdentifier: 
+  Name: 
+  Health: 0
+  MeleeBaseHealth: 100
+  RangedBaseHealth: 80
+  CasterBaseHealth: 60
+  BaseHealthCoefficient: 0.4
+  MeleeRadius: 6
+  RangedRadius: 10
+  CasterRadius: 5
+  StoppingDistance: 0
+  Speed: 0
+  Acceleration: 0
+  AngularSpeed: 0
+  MeleeAttackDamage: 10
+  RangedAttackDamage: 8
+  CasterAttackDamage: 5
+  AttackDamageCoefficient: 0.5
+  AttackDamage: 0
+  MeleeAttackSpeed: 1
+  RangedAttackSpeed: 1.25
+  CasterAttackSpeed: 1.5
+  AttackSpeed: 0
+  AttackTime: 0.5
