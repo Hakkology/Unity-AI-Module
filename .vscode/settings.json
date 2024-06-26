@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity-AI-Module.sln"
+    "dotnet.defaultSolution": "GOAP.sln"
 }

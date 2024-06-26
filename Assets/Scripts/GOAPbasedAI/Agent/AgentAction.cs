@@ -45,7 +45,7 @@ public class AgentAction {
             return this;
         }
 
-        public Builder WithPrecondition(AgentBelief precondition){
+        public Builder AddPrecondition(AgentBelief precondition){
             action.Preconditions.Add(precondition);
             return this;
         }
