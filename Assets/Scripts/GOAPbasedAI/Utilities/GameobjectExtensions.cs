@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 using System.Linq;
 
-// See https://github.com/adammyhre/Unity-Utils for more extension methods
 public static class GameObjectExtensions {
     /// <summary>
     /// Returns the object itself if it exists, null otherwise.
